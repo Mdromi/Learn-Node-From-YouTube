@@ -1,0 +1,30 @@
+{
+  "name": "core-nodejs-with-lws",
+  "version": "1.0.0",
+  "description": "This series complete fundamental topic of nodejs with core nodejs project. And Finally complete  a chart application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdromi/Core-Nodejs-With-LWS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdromi/Core-Nodejs-With-LWS/issues"
+  },
+  "homepage": "https://github.com/Mdromi/Core-Nodejs-With-LWS#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.7.1"
+  }
+}
