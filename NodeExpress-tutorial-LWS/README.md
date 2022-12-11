@@ -1,5 +1,3 @@
-# Learn NodeJs From YouTube
-Learning Node Js From YouTube Tutorial
 
 ### [Node.js || Express.js Tutorial Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM)
 
