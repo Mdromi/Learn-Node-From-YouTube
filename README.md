@@ -10,6 +10,6 @@ Learning Node Js From YouTube Tutorial
 
 <div align="center">
     <a href="https://github.com/Mdromi/Learn-Node-From-YouTube/tree/main/NodeExpress-tutorial-LWS">
-    	<img src="./NodeExpress-tutorial-LWS.jpg"  width="600" height="400" alt="">
+    	<img src="./img/NodeExpress-tutorial-LWS.jpg"  width="600" height="400" alt="">
     </a>
 </div>
